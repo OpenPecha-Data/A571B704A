@@ -1,0 +1,62 @@
+segment_sources:
+  IC6DA58A4:
+    type: origin_type
+    relation: translation
+    language: sa
+  I7B6A583B:
+    type: origin_type
+    relation: translation
+    language: bo
+  I147775BB:
+    type: origin_type
+    relation: translation
+    language: pgd
+  ID0B124F4:
+    type: origin_type
+    relation: translation
+    language: zh
+  I642A404A:
+    type: origin_type
+    relation: translation
+    language: zh
+  I7CEBD91C:
+    type: origin_type
+    relation: translation
+    language: zh
+  I41B1F0D5:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  c9c3e870952344598581d39f88f6ac1d:
+    IC6DA58A4: 556649b3c1b944dcb589f92a590cdf71
+    I7B6A583B: b9a977a5c5dc418f82b7357ff6edc5de
+    I147775BB: 6aa01f808b914e2da7eafea67763041a
+    ID0B124F4: 4f4fb230aac54a5cb82c68c6e7f58c62
+    I642A404A: 064b4ac09a694d7d9039ff542d63fba8
+    I7CEBD91C: 6661e10240834dddbafba2486608188c
+    I41B1F0D5: 654fe7664e5b4c5f80f327d84af319aa
+  d7d5ea74596c4d0e9200974a1647ca7c:
+    IC6DA58A4: ed606b8d429849d2b29793acd61bdb28
+    I7B6A583B: a8d0aa2f43cd453cb3e078920930ff8a
+    I147775BB: 12054fb237314043a6d12e6b05d8798a
+    ID0B124F4: b09ed4b0903b4e9a975fdaf22315099e
+    I642A404A: c67f61b53d064fa6baea802a4577e676
+    I7CEBD91C: e40f630d06cb41d7a90d9541afee1d0b
+    I41B1F0D5: 120a1bd0df774a8dbccbbf95a011971c
+  d7edcbbc1e6a442d82923db4f045d02f:
+    IC6DA58A4: 5c37544e43b9476384b129504fc6db6b
+    I7B6A583B: ab89d3bc2b204ed8821a8b60471f594a
+    I147775BB: f6cd84470fd14c0caf72819367ee32e4
+    ID0B124F4: abfb9fd94dad4d1e90ea5a19178b42c7
+    I642A404A: f90502cb015940089ad2f3d4ea76af44
+    I7CEBD91C: 8aa77693c02f4e189313172c21b1422c
+    I41B1F0D5: 37a5ee20eac24eada4653ab33e2702af
+  7c7afa4b45084c5ba7a522d6456b83dc:
+    IC6DA58A4: c7e14e8b81e34b828eb47069f54fee01
+    I7B6A583B: 0ca03ed11c944af6857629884cf76e95
+    I147775BB: fa7b395ff5ca4c2485c4c186ba4b5bdc
+    ID0B124F4: 9ab1995c704041278bbc4ad39e60981d
+    I642A404A: 85977f405a554e1da004ee26e6b8c82a
+    I7CEBD91C: 6fc5dd5b87e64024ba068bd19689995e
+    I41B1F0D5: 41913972d75e48359577b4bff3a00883

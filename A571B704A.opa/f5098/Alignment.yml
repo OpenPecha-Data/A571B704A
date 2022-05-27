@@ -1,0 +1,70 @@
+segment_sources:
+  IC6DA58A4:
+    type: origin_type
+    relation: translation
+    language: sa
+  I7B6A583B:
+    type: origin_type
+    relation: translation
+    language: bo
+  I147775BB:
+    type: origin_type
+    relation: translation
+    language: pgd
+  ID0B124F4:
+    type: origin_type
+    relation: translation
+    language: zh
+  I642A404A:
+    type: origin_type
+    relation: translation
+    language: zh
+  I7CEBD91C:
+    type: origin_type
+    relation: translation
+    language: zh
+  I41B1F0D5:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  aa32395cdf594b0a803fd471d260fc2b:
+    IC6DA58A4: ca42f163b11d4126ad362a76a70bc057
+    I7B6A583B: a418339dfd5e444db12c8dcc308a7748
+    I147775BB: None
+    ID0B124F4: e0e866b5865a468bb8a61c8c9ce8cdf0
+    I642A404A: 7561919937b649dcb4099c1b01f7533c
+    I7CEBD91C: a0dbd05a9c90427aa537a2c54e75fb40
+    I41B1F0D5: 5921784734ef4c6298feca64d346185d
+  9c991d4386714ea2af99be0b3c2a134d:
+    IC6DA58A4: a0f0582c92b14adaa06bbc48e6f11dfb
+    I7B6A583B: a1b77712337a46e380d6d1f41a3a6654
+    I147775BB: None
+    ID0B124F4: 49d1665c60104c94878862b8277650be
+    I642A404A: 07663c50bf0241ad9e0f23190f95d9d7
+    I7CEBD91C: 7b0265f9c8be40fa8799a6dbb2f4022f
+    I41B1F0D5: da3129cd31a443c0b1bee352fad4c7b4
+  0cfa3adacc8f42d7beef4c81e046134e:
+    IC6DA58A4: 5f56c3c130aa43b8b0e15deb99c7eaed
+    I7B6A583B: 7866f9e925e34472962aef44c793cb2b
+    I147775BB: None
+    ID0B124F4: 0d5f01c38aa8453a89fbcbabfe6e8e7c
+    I642A404A: 532406f116b54091afeb0f7015909e13
+    I7CEBD91C: 92bc213d37484dcea09aea3350b3cd85
+    I41B1F0D5: 18e2167cb1344f7e84e233ae899ad6d4
+  aaaa4b9c071f4b69b36fbc09c3292e99:
+    IC6DA58A4: 816367938b9c4f6d8d2966439a220efa
+    I7B6A583B: 0b45f9aeeb3c4f93b9095d803f939478
+    I147775BB: None
+    ID0B124F4: fd45a9382d5c4f28841ae9676c6d2723
+    I642A404A: 311ad70385364208addccfcd1c6a3202
+    I7CEBD91C: aa9b6649768f4ed9847d3d0f90f8cbfb
+    I41B1F0D5: b2a6ccc5e356473481a316512382e0c4
+  9c6309effa9f4439bdbb7320a1a5d89d:
+    IC6DA58A4: b2a23372fea54c26953826e27499fd6e
+    I7B6A583B: 6e7cf77c37714afbb5c02e8ad4c0bbbb
+    I147775BB: None
+    ID0B124F4: ca81ad142ea94e9396ff27261c885977
+    I642A404A: 40da52b657ab4f0aad56e821c8503abd
+    I7CEBD91C: 5f547092352341b2b1ea7482993f7141
+    I41B1F0D5: c44b42720de54e0087e13076da5e5b8a
